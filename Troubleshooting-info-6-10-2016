@@ -1,0 +1,36 @@
+
+Report a Problem
+Please copy and paste the information below into an email to phethelp@colorado.edu, and then fill in the blanks.
+
+Test device:
+
+Operating System:
+
+Browser:
+
+Problem description:
+
+Steps to reproduce:
+
+Severity:
+
+Screenshots:
+
+Troubleshooting information (do not edit):
+Name: ‪Function Builder‬
+URL: http://www.colorado.edu/physics/phet/dev/html/function-builder/1.0.0-dev.48/function-builder_en.html
+Version: 1.0.0-dev.48 2016-06-09 21:13:13 UTC
+Features missing: touch
+Flags: pixelRatioScaling
+User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+Language: en-US
+Window: 1280x590
+Pixel Ratio: 1.5/1
+WebGL: WebGL 1.0
+GLSL: WebGL GLSL ES 1.0
+Vendor: Mozilla (Mozilla)
+Vertex: attribs: 16 varying: 28 uniform: 1024
+Texture: size: 16384 imageUnits: 16 (vertex: 16, combined: 32)
+Max viewport: 32767x32767
+OES_texture_float: true
+Dependencies JSON: {"assert":{"sha":"7d27130a","branch":"master"},"axon":{"sha":"b71cc337","branch":"master"},"babel":{"sha":"728956f3","branch":"master"},"brand":{"sha":"f0b1f7da","branch":"master"},"chipper":{"sha":"4c679115","branch":"master"},"dot":{"sha":"9b554e82","branch":"master"},"function-builder":{"sha":"ebab2b1f","branch":"master"},"joist":{"sha":"ddf0d912","branch":"master"},"kite":{"sha":"dce9765e","branch":"master"},"phet-core":{"sha":"c48bf320","branch":"master"},"phetcommon":{"sha":"35ef94ad","branch":"master"},"scenery":{"sha":"533a56b5","branch":"master"},"scenery-phet":{"sha":"cc33f674","branch":"master"},"sherpa":{"sha":"e1b3c84b","branch":"master"},"sun":{"sha":"f2631eea","branch":"master"},"tandem":{"sha":"b3c68afa","branch":"master"},"twixt":{"sha":"53b31872","branch":"master"}}
